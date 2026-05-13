@@ -111,12 +111,6 @@ The line tracking logic is centered in the following parts of the sketch:
 
 The sensor weights in the code are asymmetric by design, ranging from -7 on the far left to +7 on the far right. This gives the controller a simple representation of how far the robot has drifted from the line.
 
-## Suggested Improvements
-
-- Add a reverse or recovery routine when all sensors lose the line.
-- Add serial output for debugging PID values and sensor states.
-- Tune Kp, Ki, and Kd after testing on the real track.
-- Keep photos in PNG or JPG for broader compatibility.
 
 ## Summary
 
