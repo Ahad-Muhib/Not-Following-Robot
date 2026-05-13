@@ -80,6 +80,15 @@ The uploaded build photos are embedded below so they display directly in the REA
 
 If you want the images to display reliably on GitHub and other markdown viewers, PNG is the right format to use.
 
+## Demo Video
+
+The build also includes a short demo video:
+
+<video controls width="100%">
+  <source src="extr/lfr_track.mp4" type="video/mp4">
+  Your browser does not support the video tag. You can open the video directly here: [lfr_track.mp4](extr/lfr_track.mp4)
+</video>
+
 ## Project Structure
 
 ```text
@@ -90,6 +99,7 @@ extr/
 	circuit_image.png
 	IMG_0965.png
 	IMG_1003.png
+	lfr_track.mp4
 ```
 
 ## Sketch Notes
