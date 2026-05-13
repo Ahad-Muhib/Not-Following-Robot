@@ -66,18 +66,19 @@ These values are a solid starting point, but the exact behavior depends on motor
 
 The wiring layout used for this build is shown in:
 
-- [Circuit diagram](extr/circuit_image.png)
+- ![Circuit diagram](extr/circuit_image.png)
 
 That diagram shows the sensor array, controller, motor driver, motors, and battery placement used in the current setup.
 
 ## Build Photos
 
-The uploaded build photos are stored in the repository here:
+The uploaded build photos are embedded below so they display directly in the README:
 
-- [IMG_0965](extr/IMG_0965.HEIC)
-- [IMG_1003](extr/IMG_1003.HEIC)
+![Build photo 1](extr/IMG_0965.png)
 
-If you want these to display more reliably on GitHub or in other viewers, converting them to PNG or JPG is recommended.
+![Build photo 2](extr/IMG_1003.png)
+
+If you want the images to display reliably on GitHub and other markdown viewers, PNG is the right format to use.
 
 ## Project Structure
 
@@ -87,8 +88,8 @@ Not_following_robot_1/
 	Not_following_robot_1.ino
 extr/
 	circuit_image.png
-	IMG_0965.HEIC
-	IMG_1003.HEIC
+	IMG_0965.png
+	IMG_1003.png
 ```
 
 ## Sketch Notes
@@ -107,7 +108,7 @@ The sensor weights in the code are asymmetric by design, ranging from -7 on the 
 - Add a reverse or recovery routine when all sensors lose the line.
 - Add serial output for debugging PID values and sensor states.
 - Tune Kp, Ki, and Kd after testing on the real track.
-- Convert the HEIC photos to PNG/JPG for broader compatibility.
+- Keep photos in PNG or JPG for broader compatibility.
 
 ## Summary
 
