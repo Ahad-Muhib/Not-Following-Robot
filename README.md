@@ -82,12 +82,10 @@ If you want the images to display reliably on GitHub and other markdown viewers,
 
 ## Demo Video
 
-The build also includes a short demo video:
+The demo video is available here:
 
-<video controls width="100%">
-  <source src="extr/lfr_track.mp4" type="video/mp4">
-  Your browser does not support the video tag. You can open the video directly here: [lfr_track.mp4](extr/lfr_track.mp4)
-</video>
+[Open the video on Google Drive](https://drive.google.com/file/d/1zlGPSLdt31QK9mADAdUIgmYkmwixvs34/view?usp=sharing)
+
 
 ## Project Structure
 
