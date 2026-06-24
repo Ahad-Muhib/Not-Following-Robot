@@ -86,6 +86,9 @@ The demo video is available here:
 
 [Open the video on Google Drive](https://drive.google.com/file/d/1zlGPSLdt31QK9mADAdUIgmYkmwixvs34/view?usp=sharing)
 
+## Diagrams and Other Images
+
+[Open the folder on Google Drive](https://drive.google.com/file/d/13ASP1N0sicO0bpSCstyvRTlUjSiueaMS/view?usp=drive_link)
 
 ## Project Structure
 
