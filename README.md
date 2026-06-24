@@ -78,7 +78,6 @@ The uploaded build photos are embedded below so they display directly in the REA
 
 ![Build photo 2](extr/IMG_1003.png)
 
-If you want the images to display reliably on GitHub and other markdown viewers, PNG is the right format to use.
 
 ## Demo Video
 
